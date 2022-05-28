@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xf054721800C882553079a8e3e7FB3A8264BE9180",
+  "SCAN_LINK": "https://polygonscan.com/token/0xf054721800C882553079a8e3e7FB3A8264BE9180",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Dragon Raver Punks",
+  "SYMBOL": "DRPNFT",
+  "MAX_SUPPLY": 3000,
+  "WEI_COST": 4000000000000000000,
+  "DISPLAY_COST": 5,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/dragonraverpunks",
+  "SHOW_BACKGROUND": true
+}
